@@ -1,9 +1,11 @@
 # my-portfolio-site
  ポートフォリオサイトとなるであろう個人サイトの作成  
  サイトの更新履歴が分かるようにGitHub上で管理する
- 
+
+# 更新内容
+1. GitHubとかTwitterのリンクをまとめるHTML/CSSのサイト(2021/03/15)
+
 # 更新予定
-1. GitHubとかTwitterのリンクをまとめるHTML/CSSのサイト
 1. WordPressとかJSでデザイン性を高める
 1. Conntactページとかアニメの公式サイトみたいにTwitterを表示する
 1. 自作質問箱を設置してみるのも面白そう
